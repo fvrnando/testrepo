@@ -1,1 +1,3 @@
 hehehe testing pull origin.
+
+New text should appear after pull, after clearing out staged files and untracked files.
